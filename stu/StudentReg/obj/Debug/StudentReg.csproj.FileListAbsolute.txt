@@ -1,0 +1,10 @@
+D:\Project\stu\StudentReg\bin\Debug\StudentReg.exe.config
+D:\Project\stu\StudentReg\bin\Debug\StudentReg.exe
+D:\Project\stu\StudentReg\bin\Debug\StudentReg.pdb
+D:\Project\stu\StudentReg\obj\Debug\StudentReg.csproj.AssemblyReference.cache
+D:\Project\stu\StudentReg\obj\Debug\StudentReg.Form1.resources
+D:\Project\stu\StudentReg\obj\Debug\StudentReg.Properties.Resources.resources
+D:\Project\stu\StudentReg\obj\Debug\StudentReg.csproj.GenerateResource.cache
+D:\Project\stu\StudentReg\obj\Debug\StudentReg.csproj.CoreCompileInputs.cache
+D:\Project\stu\StudentReg\obj\Debug\StudentReg.exe
+D:\Project\stu\StudentReg\obj\Debug\StudentReg.pdb
